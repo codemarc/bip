@@ -9,16 +9,16 @@ To install the snippets:
 4. paste the code from mysnippets/markdown.json into the editor.
 5. Save the file. and reload VS Code.
 
-[Wed 2024-10-09 10:13] blog topics to consider
+[Wed 2024-10-09 10:13] braintrailz - blog topics to consider
+ 
+  - https://github.com/codemarc/ntmfs why another version of ntmfs?
 
-- https://github.com/codemarc/ntmfs why another version of ntmfs?
+  - scaffolding, startup, bootstrapping, and the like 
 
-- scaffolding, startup, bootstrapping, and the like 
+  - the process of getting a project up and running.
 
-- the process of getting a project up and running.
+  - adding copilot to my terminal - how to use copilot to write code in the terminal.
+      - https://docs.github.com/en/copilot/managing-copilot/configure-personal-settings/installing-github-copilot-in-the-cli
+      - install gh cli command line tool
 
-- adding copilot to my terminal - how to use copilot to write code in the terminal.
-    - https://docs.github.com/en/copilot/managing-copilot/configure-personal-settings/installing-github-copilot-in-the-cli
-    - install gh cli command line tool
-
-- https://www.freecodecamp.org/news/spell-check-on-your-linux-terminal/
+  - https://www.freecodecamp.org/news/spell-check-on-your-linux-terminal/

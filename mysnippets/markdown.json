@@ -1,0 +1,18 @@
+{
+	"markdown snippets help": {
+		"prefix": "snippets",
+		"body": [
+			"#  Place your snippets for markdown here. Each snippet is defined under a snippet name and has a prefix, body and",
+			"#  description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. see link for syntax",
+			"#  https://code.visualstudio.com/docs/editor/userdefinedsnippets#_snippet-syntax"
+		],
+		"description": "markdown snippets help"
+	},
+	"Insert Timestamp": {
+		"prefix": "timestamp",
+		"body": [
+			"[${CURRENT_DAY_NAME_SHORT} ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} ${CURRENT_HOUR}:${CURRENT_MINUTE}] "
+		],
+		"description": "Insert current timestamp"
+	}
+}

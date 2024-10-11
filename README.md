@@ -1,5 +1,7 @@
 # BIP
 #### Blogs in Progress - source repo for my writings
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)][bip]
+![GitHub last commit](https://img.shields.io/github/last-commit/codemarc/bip)
 
 As once explained by the architect in the [matrix reloaded][redux] this is not the first version of my attempts to learn in public. I have a private project that I have been working on and off for some time now: [ntmfs - notes to my future self][ntmfs].
 It was supposed to be a public project, but over time secrets (that should not be shared) have seeped in. So that brings us to Blogs in Progress (bip).
@@ -12,6 +14,7 @@ This time my target audience is more then myself and the material in this reposi
 
 
 <!-- References -->
+[bip]: https://github.com/codemarc/bip
 [redux]: https://youtu.be/LN8EE5JxSGQ?t=86
 [ntmfs]: https://github.com/codemarc/ntmfs
 [swyx]: https://www.swyx.io/learn-in-public/

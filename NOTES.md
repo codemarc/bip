@@ -1,3 +1,18 @@
+##### Fri Oct 11, 2024 at 10:52 - we dont need your stinkin badges 
+
+  - An extensive list of [static Shields.io badges], sorted by category.
+  - Complete list of [github markdown emoji markup] :wink: 
+  - product hunt - [echo app]
+  
+
+<!-- Engage Cloaking Device -->
+
+[static Shields.io badges]: https://github.com/inttter/md-badges
+
+[github markdown emoji markup]: https://gist.github.com/rxaviers/7360908
+
+[echo app]: https://www.producthunt.com/posts/echo-76b8e6a3-3f29-4842-9927-6d0f0b08f0fa
+
 
 ---
 ##### Wed 2024-10-09 10:13am - braintrailz - blog topics to consider (Wed 2024-10-09 10:13)

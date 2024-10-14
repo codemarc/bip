@@ -8,9 +8,9 @@ It was supposed to be a public project, but over time secrets (that should not b
 
 The concept of "learning in public" is not attributed to one specific person, but it has become popular through various developers and creators in the tech community. The idea emphasizes sharing your learning process openly, such as blogging, tweeting, making videos, or contributing to open-source projects, and it has gained traction as part of the broader open-source and knowledge-sharing movements.
 
-#### [Robot Monkey Butler][rmb]
+#### [Robot Monkey Butler][rmb] <span style="white-space: nowrap;">( ͡° ͜ʖ ͡°)</span> 
 
-This time my target audience is more then myself and the material in this repository is used for research and reference  As I document my discoveries and share them in prose, I expect to create the [learning in public][swyx] environment that an instructor friend of mine, [Shawn Wang][swyx] once proposed. I am very exciting ( ͡° ͜ʖ ͡°) to get started once again.
+This time my target audience is more then myself and the material in this repository is used for research and reference  As I document my discoveries and share them in prose, I expect to create the [learning in public][swyx] environment that I started out as [ntmfs - notes to my future self][ntmfs]. I am very excited to get started once again.
 
 <!-- References -->
 [bip]: https://github.com/codemarc/bip
@@ -24,17 +24,19 @@ This time my target audience is more then myself and the material in this reposi
 
 ### October 2024
 
-| Sun  | Mon | Tue | Wed | Thu | Fri | Sat  |
-|----- |-----|-----|-----|-----|-----|----- |
-|      |     |  1  |  2  |  3  |  4  |  5   |
-|  6   |  7  |  8  |  9  | 10  | 11  | [12] |
-| [13] | 14  | 15  | 16  | 17  | 18  | 19   |
-| 20   | 21  | 22  | 23  | 24  | 25  | 26   |
-| 27   | 28  | 29  | 30  | 31  |     |      |
+| Sun  | Mon  | Tue | Wed | Thu | Fri | Sat  |
+|----- |----- |-----|-----|-----|-----|----- |
+|      |      |  1  |  2  |  3  |  4  |  5   |
+|  6   |  7   |  8  |  9  | 10  | 11  | [12] |
+| [13] | [14] | 15  | 16  | 17  | 18  | 19   |
+| 20   | 21   | 22  | 23  | 24  | 25  | 26   |
+| 27   | 28   | 29  | 30  | 31  |     |      |
 
 
 <!-- yom kippur --> 
 [12]: ./2024/10/12.md
 [13]: ./2024/10/13.md
+<!--Columbus Day -->
+[14]: ./2024/10/14.md
 
 
